@@ -1,5 +1,31 @@
 # Getting Started with Create React App
 
+Author: Dutch Foy
+ Version: 1.0.0
+
+Overview
+
+The project explores the third party API’s. We will be sending user's request to our third party API, and should receive a response back from that API.
+The user will be requesting/searching city through the page's form, expecting a valid result if city exists.
+Weather information is coming from the Express server. The user is now able to see a weather forecast of numerous days for a specific city. Error message will display if not found.
+
+Getting Started
+
+Create a new repo in GitHub, initialized with no files.
+Use npc create-react-app 'your app name' in your local machine project directory.
+Connect your GitHub repo to your local repo using the 2nd option/directions on GitHub
+
+
+Languages, Frameworks, and platforms utilized:
+
+JavaScript
+React.js
+Bootstrap
+GitHub
+Trello
+Netlify
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
